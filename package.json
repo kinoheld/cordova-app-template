@@ -1,0 +1,11 @@
+{
+  "name": "cordova-app-template",
+  "version": "1.0.0",
+  "description": "kinoheld app template used by the `cordova create` command.",
+  "main": "index.js",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova:template"
+  ],
+  "author": "frank.talk@kinoheld.de"
+}
